@@ -19,3 +19,4 @@ This repository is a knowledge base for the book 《深入浅出 WebAssembly》.
 
 9. **[第135页]** 本页多处，单词 `“lable”` -> `“label”`；[@zxh](https://github.com/zxh0)
 10. **[第136页]** 本页开头，语句 `“do...while”` -> `“while”`；[@nullptru](https://github.com/nullptru)
+11. **[第165页]** 本页第4行以及图2-44/图2-45中，三处 `“1001010”` -> `“10001010”`；[@stephenfire](https://github.com/stephenfire)
