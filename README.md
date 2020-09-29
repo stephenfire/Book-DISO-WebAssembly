@@ -21,3 +21,4 @@ This repository is a knowledge base for the book 《深入浅出 WebAssembly》.
 10. **[第136页]** 本页开头，语句 `“do...while”` -> `“while”`；[@nullptru](https://github.com/nullptru)
 11. **[第165页]** 第4行、图2-44及图2-45中，三处 `“1001010”` -> `“10001010”`；[@stephenfire](https://github.com/stephenfire)
 12. **[第168页]** 倒数第6行，`“0x08”` -> `“0x80”`；[@stephenfire](https://github.com/stephenfire)
+13. **[第169页]** 中下部，`“二进制形式：10001100 10000000 10000000 00000000”` -> `“二进制形式：11111111 11111111 11111111 11111001”`；[@stephenfire](https://github.com/stephenfire)
